@@ -120,6 +120,9 @@ Sending the same message each time is kind of boring. This time:
 1. Execute the updated emit_message.py. 
 1. Watch what happens in the listening terminal.
 
+![results](https://github.com/kenoutlaw/streaming-03-rabbitmq/assets/116039680/cce6e83b-c1f0-4874-aaaa-8a65b1b1e094)
+
+
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
 
